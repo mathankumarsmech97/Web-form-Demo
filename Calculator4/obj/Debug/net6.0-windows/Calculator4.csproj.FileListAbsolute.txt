@@ -1,0 +1,17 @@
+C:\Users\infinire\source\repos\Calculator4\Calculator4\bin\Debug\net6.0-windows\Calculator4.exe
+C:\Users\infinire\source\repos\Calculator4\Calculator4\bin\Debug\net6.0-windows\Calculator4.deps.json
+C:\Users\infinire\source\repos\Calculator4\Calculator4\bin\Debug\net6.0-windows\Calculator4.runtimeconfig.json
+C:\Users\infinire\source\repos\Calculator4\Calculator4\bin\Debug\net6.0-windows\Calculator4.dll
+C:\Users\infinire\source\repos\Calculator4\Calculator4\bin\Debug\net6.0-windows\Calculator4.pdb
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.csproj.AssemblyReference.cache
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.Form1.resources
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.csproj.GenerateResource.cache
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.AssemblyInfoInputs.cache
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.AssemblyInfo.cs
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.csproj.CoreCompileInputs.cache
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.dll
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\refint\Calculator4.dll
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.pdb
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\Calculator4.genruntimeconfig.cache
+C:\Users\infinire\source\repos\Calculator4\Calculator4\obj\Debug\net6.0-windows\ref\Calculator4.dll
